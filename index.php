@@ -21,7 +21,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Modulo 01 - Basico</h3>
+                    <h3>Seção 1 - Basico</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
                         <li><a href="exercicio.php?dir=basico&file=html">HTML</a></li>
@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="modulo vermelho">
-                    <h3>Modulo 02 - Tipos</h3>
+                    <h3>Seção 2 - Tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
@@ -46,7 +46,7 @@
                 </div>
 
                 <div class="modulo azul">
-                    <h3>Modulo 03 - Variaveis</h3>
+                    <h3>Seção 3 - Variaveis</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Variaveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio de Equação</a></li>
@@ -56,6 +56,13 @@
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_variavel">Desafio Variavel</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=valor_vs_referencia">Valor VS Referencia</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=constante">Constante</a></li>
+                    </ul>
+                </div>
+
+                <div class="modulo roxo">
+                    <h3>Seção 4 - Controle</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">IF - Else</a></li>
                     </ul>
                 </div>
             </nav>
