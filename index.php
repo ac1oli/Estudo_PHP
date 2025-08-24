@@ -37,11 +37,24 @@
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=opAritimetrica">Op. Aritimetricas</a></li>
-                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">desafio precedencia</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio precedencia</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=boolean">Tipo Boolean</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=convercoes">Converções</a></li>
+                    </ul>
+                </div>
+
+                <div class="modulo azul">
+                    <h3>Modulo 03 - Variaveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio de Equação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variaveis Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variavel">Desafio Variavel</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_vs_referencia">Valor VS Referencia</a></li>
                     </ul>
                 </div>
             </nav>
