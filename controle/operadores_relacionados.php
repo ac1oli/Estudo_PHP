@@ -32,9 +32,9 @@ echo '<br>';
 
 echo "<p>Spaceship<hr></p>";
 
-var_dump(50 <=> 30);
-var_dump(50 <=> 50);
-var_dump(50 <=> 300);
+var_dump(50 <=> 30); // Positivo, se o operando da esquerda for maior que o da direita
+var_dump(50 <=> 50); // 0, se caso os dois operandos forem iguais
+var_dump(50 <=> 300); // Negativo, se o operando da direita for maior que o da esquerda
 
 ?>
 
