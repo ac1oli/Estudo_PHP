@@ -3,15 +3,20 @@
 <?php
 
 echo pi();
-$pi = 2.8;
+$pi = 3.14;
+$piErrado = 2.8;
 echo '<br>' . $pi;
+echo '<br>' . $piErrado;
 
-if((abs($pi - pi())) >= 0.001) {
+if(($pi - pi()) <= 0.01) {
     echo "<br> iguais!";
+} 
+
+if($pi - $piErrado <= 0.01) {
+    echo "<br> Iguais";
 } else {
-    echo "<br> diferente";
+    echo "<br> Diferentes";
 }
 
-echo abs($pi - pi());
 
 
