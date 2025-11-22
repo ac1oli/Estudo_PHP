@@ -11,6 +11,9 @@ $dados2 = [
     "naturalidade" => "Fortaleza"
 ];
 
+//ADICIONANDO MAIS UM VALOR NO ARRAY
+$dados2["endereço"] = "Ruazinha";
+
 $dadosCompletos = $dados1 + $dados2;
 
 print_r($dadosCompletos);
@@ -36,15 +39,19 @@ print_r($decimais);
 echo "<br><br>";
 
 
-//ORGANIZA OS ARRAYS
-print_r(sort($decimais));
+//A FUNÇÃO 'SORT' FAZ A ORDENAÇÃO DOS ARRAYS
+sort($decimais);
+print_r($decimais);
+echo "<br><br>";
 
 
 //ESSA FUNÇÃO DO ARRAY É PARA PEGAR UM NUMERO ALEATORIO DO ARRAY INFORMADO
 print_r(array_rand($decimais));
 echo "<br><br>";
 
-print_r(array_merge($decimais));
+
+//VAI TODOS OS VALORES DOS ARRAY, POREM DE FORMA DESORDENADA
+print_r(array_merge($pares, $impares));
 
 
 
