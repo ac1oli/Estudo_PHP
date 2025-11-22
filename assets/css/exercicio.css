@@ -11,6 +11,10 @@ body.exercicio {
     height: calc(100vh - 240px);
 }
 
+.titulo{
+    text-align: center;
+}
+
 .navegacao {
     grid-area: navegacao;
     display: flex;

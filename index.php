@@ -72,6 +72,17 @@
                         <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a></li>
                     </ul>
                 </div>
+
+                <div class="modulo amarelo">
+                    <h3>Seção 5 - Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_index">Desafio Index</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file=operacao_array">Operações de  Array</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
 

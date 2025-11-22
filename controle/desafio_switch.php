@@ -16,6 +16,8 @@
         <option value="milha-km"> Milha ::- Km</option>
         <option value="metro-km"> Metro ::- Km</option>
         <option value="km-metro"> Km ::- Metro</option>
+        <option value="celsius"> Fahrenheit ::- Celsius </option>
+        <option value="fahrenheit"> Celsius ::- Fahrenheit </option>
     </select>
     <br>
     <button>Calcular</button>
@@ -48,6 +50,21 @@ switch(strtolower($_POST['conversao'])) {
         $valorFinal = number_format($converter, 1, '.', ',');
         echo "Metros:  <input type='text' id='result' value='$valorFinal'>";
         break;
+
+    case 'celsius':
+        $param = $_POST['param'];
+        $converter = ($param * (9/5)) + 32;
+        $valorFinal = number_format($converter, 1, '.', ',');
+        echo "Fahrenheit:  <input type='text' id='result' value='$valorFinal °'> ";
+        break;
+
+    case 'fahrenheit':
+        $param = $_POST['param'];
+        $converter = ($param - 32) * (5/9);
+        $valorFinal = number_format($converter, 1, '.', ',');
+        echo "Celsius:  <input type='text' id='result' value='$valorFinal °'> ";
+        break;
+
 }
 
 ?>
