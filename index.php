@@ -91,9 +91,12 @@
                 </div>
 
                 <div class="modulo verde-escuro">
-                    <h3>Seção 6 - Controle(2)</h3>
+
+                    <h3>Seção 6 - Estrutura de Controle 2</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle2&file=for">For</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_for">Desafio For</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=foreach">Foreach</a></li>
                     </ul>
                 </div>
             </nav>
