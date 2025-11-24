@@ -89,6 +89,13 @@
                         <li><a href="exercicio.php?dir=array&file=comparacao">Comparação</a></li>
                     </ul>
                 </div>
+
+                <div class="modulo verde-escuro">
+                    <h3>Seção 6 - Controle(2)</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle2&file=for">For</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
 
