@@ -31,8 +31,14 @@ foreach($array2 as $linhas){
     echo "<br>";
 }
 
-if ($learn) $money++; else $money--;
+echo "<hr>";
 
+$numeros = [1,2,3,4,5];
+
+foreach($numeros as &$dobrar){
+    $dobrar *= 2;
+    echo "$dobrar <br>";
+}
 
 
 ?>
