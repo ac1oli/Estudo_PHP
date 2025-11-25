@@ -31,8 +31,6 @@ foreach($array2 as $linhas){
     echo "<br>";
 }
 
-if ($learn) $money++; else $money--;
-
 
 
 ?>

@@ -97,6 +97,8 @@
                         <li><a href="exercicio.php?dir=controle2&file=for">For</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=desafio_for">Desafio For</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=foreach">Foreach</a></li>
+
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_impressao">Desafio de impressão</a></li>
                     </ul>
                 </div>
             </nav>
