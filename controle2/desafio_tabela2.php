@@ -8,7 +8,7 @@
     <label for="colunas">Colunas</label>
     <input type="number" id="colunas" name="colunas" placeholder="Digite a quantidade de colunas" value=<?=$_POST['colunas'] ?? 5?>>
     <br>
-    <button>Enviar</button>
+    <button>Gerar Tabela</button>
 </form>
 
 
@@ -16,8 +16,8 @@
 
 <?php
 
-    $linhas = $_POST['linhas'];
-    $colunas = $_POST['colunas'];
+    $linhas = $_POST['linhas'] ?? 5;
+    $colunas = $_POST['colunas'] ?? 5;
     $numbers = 1;
 
 
