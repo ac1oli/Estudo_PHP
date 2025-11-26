@@ -99,6 +99,8 @@
                         <li><a href="exercicio.php?dir=controle2&file=foreach">Foreach</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=break-continue">Break  /  Continue</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=desafio_impressao">Desafio de impressão</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_tabela">Desafio de Tabela</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_tabela2">Desafio de Tabela 2</a></li>
 
                     </ul>
                 </div>
