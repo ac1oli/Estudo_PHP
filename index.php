@@ -104,6 +104,15 @@
 
                     </ul>
                 </div>
+
+                <div class="modulo vermelho-escuro">
+
+                    <h3>Seção 7 - Funções</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Escopo</a></li>
+
+                    </ul>
+                </div>
             </nav>
         </div>
 
