@@ -110,6 +110,7 @@
                     <h3>Seção 7 - Funções</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=funcoes&file=escopo">Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
 
                     </ul>
                 </div>
