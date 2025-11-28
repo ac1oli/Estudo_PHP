@@ -110,7 +110,10 @@
                     <h3>Seção 7 - Funções</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=funcoes&file=escopo">Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=arg-return">Argumentos e Retorno</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=arg-variaveis">Argumentos Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=arg-padrao">Argumentos Padõres</a></li>
 
                     </ul>
                 </div>
