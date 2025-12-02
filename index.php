@@ -115,6 +115,8 @@
                         <li><a href="exercicio.php?dir=funcoes&file=arg-variaveis">Argumentos Variaveis</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=arg-padrao">Argumentos Padõres</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=callable-closure">Closure e Callable</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
 
                     </ul>
                 </div>

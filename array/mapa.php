@@ -31,5 +31,5 @@ echo "Tipo do discionario em PHP: " . gettype($df);
 echo "<br>";
 foreach($df as $array){
     echo "<br> <br>";
-    print_r($array[0]);
+    print_r($array[1]);
 }
